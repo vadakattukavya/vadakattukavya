@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Kavya Vadakattu</h1>
+- 🔭 I’m currently working on *Traffic sign board identification and voice vigilance system using CNN*
 
-<!--
-**vadakattukavya/vadakattukavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning *Machine Learning ,Deep Learning*
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on *projects which are related to Machine Learning and Deep Learning*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://kavi21portfolio.netlify.app/](https://kavi21portfolio.netlify.app/)
+
+- 💬 Ask me about *Machine Learning*
+
+- 📫 How to reach me *kavyashetty649@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vadakattu kavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadakattu kavya" height="30" width="40" /></a>
+</p>
+
