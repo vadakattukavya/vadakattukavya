@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Traffic sign board identification and voice vigilance system using CNN<br><br>🌱 I’m currently learning Machine Learning ,Deep Learning<br><br>👯 I’m looking to collaborate on projects which are related to Machine Learning and Deep Learning<br><br>👨‍💻 All of my projects are available at https://kavi21portfolio.netlify.app/<br><br>💬 Ask me about Machine Learning<br><br>📫 How to reach me kavyashetty649@gmail.com
+<br>👨‍💻 All of my projects are available at https://kavi21portfolio.netlify.app/<br>📫 How to reach me kavyashetty649@gmail.com
 
 
 ## 🌐 Socials:
